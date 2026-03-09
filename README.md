@@ -20,5 +20,5 @@ Done!
 # Creators
 Chris The Parrot: Made some improvements to the app
 
-Aggelos-Dev (https://github.com/Aggelos-dev/): Developed the frontend, desing and some of the backend 
+Aggelos-Dev (https://github.com/Aggelos-dev/): Developed the frontend, design and some of the backend 
 
